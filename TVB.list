@@ -1,17 +1,8 @@
-# NAME: TVB
-# AUTHOR: blackmatrix7
-# REPO: https://github.com/btjson/loon/
-# UPDATED: 2024-07-22 11:11:11
-# DOMAIN: 3
-# DOMAIN-SUFFIX: 18
-# USER-AGENT: 2
-# TOTAL: 23
+
 DOMAIN,bcbolt446c5271-a.akamaihd.net
-DOMAIN,tvb.mytvsuper.us.kg
 DOMAIN,edge.api.brightcove.com
 DOMAIN,edge6a.v2h-cdn.com
 DOMAIN,tvbtracking.azurewebsites.net
-DOMAIN-KEYWORD,mytvsuper
 DOMAIN-SUFFIX,bigbigchannel.com.hk
 DOMAIN-SUFFIX,bigbigshop.com
 DOMAIN-SUFFIX,v2h-cdn.com
@@ -38,7 +29,6 @@ DOMAIN-SUFFIX,stream-link.online
 DOMAIN-SUFFIX,z02.ubtvfans.com
 DOMAIN-SUFFIX,z1.ubtvfans.com
 DOMAIN-SUFFIX,mytvsuper.btjson.us.kg
-DOMAIN-SUFFIX,tvb.mytvsuper.us.kg
 DOMAIN-SUFFIX,mytv.btjson.us.kg
 DOMAIN-SUFFIX,ubtvfans.com
 DOMAIN-SUFFIX,fm1077.serv00.net
