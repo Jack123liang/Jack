@@ -8,7 +8,6 @@ DOMAIN-SUFFIX,gitv.tv
 DOMAIN-SUFFIX,cctv.cn
 DOMAIN-SUFFIX,yangshipin.cn
 DOMAIN-SUFFIX,gcable.cn
-DOMAIN-SUFFIX,us.kg
 IP-CIDR,183.206.0.0/15,no-resolve
 IP-CIDR,223.5.5.5/32,no-resolve
 IP-CIDR,27.36.0.0/14,no-resolve
